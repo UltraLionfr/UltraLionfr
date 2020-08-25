@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**UltraLionfr/UltraLionfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bonjour, bienvenue sur mon Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  
+</div>  
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  **📫 Retrouvé moi ici :**<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/UltraLion__)](https://twitter.com/UltraLion__)<br>
+ [UltraLion.ml](https://ultralion.ml)
+
+</div>
