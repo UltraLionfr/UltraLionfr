@@ -1,6 +1,6 @@
 <div align="center">
 
-### Bonjour, bienvenue sur mon Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+### Bonjour, bienvenue sur mon Github! <span class="wave">👋</span></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UltraLionfr" alt="UltraLionfr" /> </p>
   
 </div>  
