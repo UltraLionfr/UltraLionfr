@@ -2,7 +2,7 @@
 
 ### Bonjour, bienvenue sur mon Github! <span class="wave">👋</span></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UltraLionfr" alt="UltraLionfr" /> </p>
-  
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </div>  
 
 <div align="center">
