@@ -6,7 +6,7 @@
 
 <div align="center">
   
- 🔗 Réseaux sociaux :
+ ### 🔗 Réseaux sociaux :
 
 <a href="https://ultralion.ml" title="Website">
   <img align="left" alt="Website" width="40px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-world-wide-web-the-internet-know-your-meme-7.png" />
