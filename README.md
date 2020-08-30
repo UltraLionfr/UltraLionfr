@@ -4,8 +4,6 @@
   
 </div>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UltraLionfr" alt="UltraLionfr" /> </p>
-
 <div align="center">
   
  ### 🔗 Réseaux sociaux :
@@ -27,3 +25,4 @@
 </a>
 
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UltraLionfr" alt="UltraLionfr" /> </p>
