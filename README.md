@@ -1,12 +1,9 @@
 <div align="center">
-
 ### Bonjour, bienvenue sur mon Github! <span class="wave">👋</span></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UltraLionfr" alt="UltraLionfr" /> </p>
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </div>  
 
 <div align="center">
-  
  ### 🔗 Réseaux sociaux :
 
 <a href="https://ultralion.ml" title="Website">
@@ -24,5 +21,4 @@
 <a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail">
   <img align="left" alt="Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" />
 </a>
-
 </div>
