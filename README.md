@@ -14,7 +14,7 @@
 <a href="https://discord.gg/VAm5zqe" title="Discord">
   <img align="left" alt="Discord" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" />
 </a>
-<a href="https://www.twitter.com/UltraLon__" title="Twitter">
+<a href="https://www.twitter.com/UltraLion__" title="Twitter">
   <img align="left" alt="Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" />
 </a>
 <a href="https://paypal.me/ultralionfr" title="PayPal">
