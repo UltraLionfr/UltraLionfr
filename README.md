@@ -1,4 +1,4 @@
-### Bonjour, bienvenue sur mon Github! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+### Bonjour, bienvenue sur mon Github! <img width="24px" src="https://cdn.ultralion.online/storage/img/hi.gif" />
 
 ### 📒 Langues et outils utilisé :
 
