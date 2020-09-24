@@ -2,18 +2,18 @@
 
 ### 📒 Langues et outils utilisé :
 
-- **Langage**: 
+<li><B>Langage</B>:</li>
 <p align="left">
   <img height="30" src="https://cdn.ultralion.online/storage/img/js.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.online/storage/img/c.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.online/storage/img/html5.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.online/storage/img/css3.png" style="max-width:100%;">
   </p>
- <li></li><B>Back-end</B> :
+ <li><B>Back-end</B> :</li>
 <p align="left">
 <img height="30" src="https://cdn.ultralion.online/storage/img/nodejs.png" style="max-width:100%;">
   </p>
-- <B>Outils</B>:
+<li><B>Outils</B>:</li>
 <p align="left">
 <img height="30" src="https://cdn.ultralion.online/storage/img/vscode.png" style="max-width:100%;">
 <img height="30" src="https://cdn.ultralion.online/storage/img/sublimetext.png" style="max-width:100%;">
