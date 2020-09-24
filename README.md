@@ -11,6 +11,9 @@
 <a href="https://ultralion.ml" title="Website">
   <img align="left" alt="Website" width="40px" src="https://cdn.ultralion.online/storage/img/website.png" />
 </a>
+<a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail">
+  <img align="left" alt="Mail" width="40px" src="https://cdn.ultralion.online/storage/img/mail.png" />
+</a>
 <a href="https://discord.gg/VAm5zqe" title="Discord">
   <img align="left" alt="Discord" width="40px" src="https://cdn.ultralion.online/storage/img/discord.png" />
 </a>
@@ -19,8 +22,5 @@
 </a>
 <a href="https://paypal.me/ultralionfr" title="PayPal">
   <img align="left" alt="PayPal" width="40px" src="https://cdn.ultralion.online/storage/img/paypal.png" />
-</a>
-<a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail">
-  <img align="left" alt="Mail" width="40px" src="https://cdn.ultralion.online/storage/img/mail.png" />
 </a>
 </div>
