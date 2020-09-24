@@ -1,6 +1,7 @@
 ### Bonjour, bienvenue sur mon Github! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 ### 📒 Langues et outils utilisé :
+
 - **Langage**: 
 <p align="left">
   <img height="30" src="https://cdn.ultralion.online/storage/img/js.png" style="max-width:100%;">
@@ -8,11 +9,11 @@
   <img height="30" src="https://cdn.ultralion.online/storage/img/html5.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.online/storage/img/css3.png" style="max-width:100%;">
   </p>
-- **Back-end**:
+- <B>Back-end</B> :
 <p align="left">
 <img height="30" src="https://cdn.ultralion.online/storage/img/nodejs.png" style="max-width:100%;">
   </p>
-- **Outils**:
+- <B>Outils</B>:
 <p align="left">
 <img height="30" src="https://cdn.ultralion.online/storage/img/vscode.png" style="max-width:100%;">
 <img height="30" src="https://cdn.ultralion.online/storage/img/sublimetext.png" style="max-width:100%;">
