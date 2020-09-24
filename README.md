@@ -1,8 +1,23 @@
-<div align="center">
- 
-### Bonjour, bienvenue sur mon Github! <span class="wave">👋</span></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UltraLionfr" alt="UltraLionfr" /> </p>
-</div>  
+### Bonjour, bienvenue sur mon Github! <span class="wave">👋</span>
+
+
+### Langues et outils utilisé :
+- **Langage**: 
+
+  <code><img height="30" src="https://cdn.ultralion.online/storage/img/js.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://cdn.ultralion.online/storage/img/c.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://cdn.ultralion.online/storage/img/html5.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://cdn.ultralion.online/storage/img/css3.png" style="max-width:100%;"></code>
+- **Back-end**:
+
+<code><img height="30" src="https://cdn.ultralion.online/storage/img/nodejs.png" style="max-width:100%;"></code>
+
+- **Outils**:
+
+<code><img height="30" src="https://cdn.ultralion.online/storage/img/vscode.png" style="max-width:100%;"></code>
+<code><img height="30" src="https://cdn.ultralion.online/storage/img/sublimetext.png" style="max-width:100%;"></code>
+<code><a href="https://mremoteng.org/"><img height="30" src="https://cdn.ultralion.online/storage/img/mRemoteNG.png" style="max-width:100%;"></a></code>
+<code><img height="30" src="https://cdn.ultralion.online/storage/img/github.png" style="max-width:100%;"></code>
 
 <div align="center">
  
@@ -24,8 +39,3 @@
   <img align="left" alt="PayPal" width="40px" src="https://cdn.ultralion.online/storage/img/paypal.png" />
 </a>
 </div>
-### 🔗 Langage :
-<a>[C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)</a>
-<a>![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)</a>
-<a>![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)</a>
-<a>![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)</a>
