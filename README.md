@@ -3,21 +3,21 @@
 ### 📒 Langues et outils utilisé :
 - **Langage**: 
 
-  <code><img height="30" src="https://cdn.ultralion.online/storage/img/js.png" style="max-width:100%;"></code>
-  <code><img height="30" src="https://cdn.ultralion.online/storage/img/c.png" style="max-width:100%;"></code>
-  <code><img height="30" src="https://cdn.ultralion.online/storage/img/html5.png" style="max-width:100%;"></code>
-  <code><img height="30" src="https://cdn.ultralion.online/storage/img/css3.png" style="max-width:100%;"></code>
+  <img height="30" src="https://cdn.ultralion.online/storage/img/js.png" style="max-width:100%;">
+  <img height="30" src="https://cdn.ultralion.online/storage/img/c.png" style="max-width:100%;">
+  <img height="30" src="https://cdn.ultralion.online/storage/img/html5.png" style="max-width:100%;">
+  <img height="30" src="https://cdn.ultralion.online/storage/img/css3.png" style="max-width:100%;">
 - **Back-end**:
 
-<code><img height="30" src="https://cdn.ultralion.online/storage/img/nodejs.png" style="max-width:100%;"></code>
+<img height="30" src="https://cdn.ultralion.online/storage/img/nodejs.png" style="max-width:100%;">
 
 - **Outils**:
 
-<code><img height="30" src="https://cdn.ultralion.online/storage/img/vscode.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://cdn.ultralion.online/storage/img/sublimetext.png" style="max-width:100%;"></code>
-<code><a href="https://mremoteng.org/"><img height="30" src="https://cdn.ultralion.online/storage/img/mRemoteNG.png" style="max-width:100%;"></a></code>
-<code><img height="30" src="https://cdn.ultralion.online/storage/img/winscp.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://cdn.ultralion.online/storage/img/github.png" style="max-width:100%;"></code>
+<img height="30" src="https://cdn.ultralion.online/storage/img/vscode.png" style="max-width:100%;">
+<img height="30" src="https://cdn.ultralion.online/storage/img/sublimetext.png" style="max-width:100%;">
+<a href="https://mremoteng.org/"><img height="30" src="https://cdn.ultralion.online/storage/img/mRemoteNG.png" style="max-width:100%;"></a>
+<img height="30" src="https://cdn.ultralion.online/storage/img/winscp.png" style="max-width:100%;">
+<img height="30" src="https://cdn.ultralion.online/storage/img/github.png" style="max-width:100%;">
 
  
  ### 🔗 Réseaux sociaux :
