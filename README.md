@@ -2,11 +2,12 @@
 
 ### 📒 Langues et outils utilisé :
 - **Langage**: 
-
+<p align="center">
   <img height="30" src="https://cdn.ultralion.online/storage/img/js.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.online/storage/img/c.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.online/storage/img/html5.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.online/storage/img/css3.png" style="max-width:100%;">
+  </p>
 - **Back-end**:
 
 <img height="30" src="https://cdn.ultralion.online/storage/img/nodejs.png" style="max-width:100%;">
