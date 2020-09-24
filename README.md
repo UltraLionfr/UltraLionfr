@@ -1,5 +1,4 @@
-### Bonjour, bienvenue sur mon Github! <span class="wave">👋</span>
-
+### Bonjour, bienvenue sur mon Github! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 ### 📒 Langues et outils utilisé :
 - **Langage**: 
