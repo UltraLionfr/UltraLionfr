@@ -18,7 +18,7 @@
   <img align="left" alt="Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" />
 </a>
 <a href="https://paypal.me/ultralionfr" title="PayPal">
-  <img align="left" alt="PayPal" width="40px" src="https://cdn.pixabay.com/photo/2018/05/08/21/29/paypal-3384015_1280.png" />
+  <img align="left" alt="PayPal" width="40px" src="https://cdn.ultralion.online/storage/img/paypal.png" />
 </a>
 <a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail">
   <img align="left" alt="Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" />
