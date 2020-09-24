@@ -24,3 +24,9 @@
   <img align="left" alt="PayPal" width="40px" src="https://cdn.ultralion.online/storage/img/paypal.png" />
 </a>
 </div>
+##### Languages
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
