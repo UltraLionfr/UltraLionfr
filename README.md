@@ -32,5 +32,4 @@
   <img align="left" alt="Discord" width="40px" src="https://cdn.ultralion.online/storage/img/discord.png" /></a>
 <a href="https://www.twitter.com/UltraLion__" title="Twitter">
   <img align="left" alt="Twitter" width="40px" src="https://cdn.ultralion.online/storage/img/twitter.png" /></a>
-<a href="https://paypal.me/ultralionfr" title="PayPal"><img align="left" alt="PayPal" width="40px" src="https://cdn.ultralion.online/storage/img/paypal.png" /></a>
-  </p>
+</p>
