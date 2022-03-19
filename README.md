@@ -30,4 +30,6 @@
   <img align="left" alt="Mail" width="40px" src="https://cdn.ultralion.xyz/storage/img/mail.png" /></a>
 <a href="https://www.twitter.com/UltraLion__" title="Twitter">
   <img align="left" alt="Twitter" width="40px" src="https://cdn.ultralion.xyz/storage/img/twitter.png" /></a>
+    <a href="https://discord.com" title="Discord">
+  <img align="left" alt="Discord"src="https://discord.c99.nl/widget/theme-3/281113457833672706.png" ></a>
 </p>
