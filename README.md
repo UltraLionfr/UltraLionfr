@@ -1,19 +1,19 @@
-### Bonjour, bienvenue sur mon Github! <img width="24px" src="https://cdn.ultralion.xyz/storage/img/hi.gif" />
+<h3 align="center">Bonjour, bienvenue sur mon Github! <img width="24px" src="https://cdn.ultralion.xyz/storage/img/hi.gif" /></h3>
 
-### 📒 Langues et outils utilisé :
+<h1 align="center">📒 Langues et outils utilisé</h1>
 
-<li><B>Langage</B>:</li>
+<h1 align="center"><B>Langage</B>:</h1>
 <p align="center">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/js.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/c.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/html5.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/css3.png" style="max-width:100%;">
   </p>
- <li><B>Back-end</B> :</li>
+ <h1 align="center"><B>Back-end</B></h1>
 <p align="center">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/nodejs.png" style="max-width:100%;">
   </p>
-<li><B>Outils</B>:</li>
+<h1 align="center"><B>Outils</B></h1>
 <p align="center">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/vscode.png" style="max-width:100%;">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/sublimetext.png" style="max-width:100%;">
@@ -21,15 +21,16 @@
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/winscp.png" style="max-width:100%;">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/github.png" style="max-width:100%;">
   </p>
- 
- ### 🔗 Réseaux sociaux :
+  
+ <h1 align="center"><B>🔗 Réseaux sociaux</B></h1>
 <p align="center">
 <a href="https://ultralion.xyz" title="Website">
-  <img align="left" alt="Website" width="40px" src="https://cdn.ultralion.xyz/storage/img/website.png" /></a>
+  <img align="center" alt="Website" width="40px" src="https://cdn.ultralion.xyz/storage/img/website.png" /></a>
 <a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail">
-  <img align="left" alt="Mail" width="40px" src="https://cdn.ultralion.xyz/storage/img/mail.png" /></a>
+  <img align="center" alt="Mail" width="40px" src="https://cdn.ultralion.xyz/storage/img/mail.png" /></a>
 <a href="https://www.twitter.com/UltraLion__" title="Twitter">
-  <img align="left" alt="Twitter" width="40px" src="https://cdn.ultralion.xyz/storage/img/twitter.png" /></a>
+  <img align="center" alt="Twitter" width="40px" src="https://cdn.ultralion.xyz/storage/img/twitter.png" /></a>
+  <BR></BR>
     <a href="https://discord.com" title="Discord">
-  <img align="left" alt="Discord"src="https://discord.c99.nl/widget/theme-3/281113457833672706.png" ></a>
+  <img align="center" alt="Discord"src="https://discord.c99.nl/widget/theme-3/281113457833672706.png" ></a>
 </p>
