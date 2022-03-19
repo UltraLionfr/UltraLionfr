@@ -3,18 +3,18 @@
 ### 📒 Langues et outils utilisé :
 
 <li><B>Langage</B>:</li>
-<p align="left">
+<p align="center">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/js.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/c.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/html5.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/css3.png" style="max-width:100%;">
   </p>
  <li><B>Back-end</B> :</li>
-<p align="left">
+<p align="center">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/nodejs.png" style="max-width:100%;">
   </p>
 <li><B>Outils</B>:</li>
-<p align="left">
+<p align="center">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/vscode.png" style="max-width:100%;">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/sublimetext.png" style="max-width:100%;">
 <a href="https://mremoteng.org/"><img height="30" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png" style="max-width:100%;"></a>
@@ -23,7 +23,7 @@
   </p>
  
  ### 🔗 Réseaux sociaux :
-<p align="left">
+<p align="center">
 <a href="https://ultralion.xyz" title="Website">
   <img align="left" alt="Website" width="40px" src="https://cdn.ultralion.xyz/storage/img/website.png" /></a>
 <a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail">
