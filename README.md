@@ -2,18 +2,18 @@
 
 <h1 align="center">📒 Langues et outils utilisé</h1>
 
-<h1 align="center"><B>Langage</B>:</h1>
+<h1><B>Langage</B>:</h1>
 <p align="center">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/js.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/c.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/html5.png" style="max-width:100%;">
   <img height="30" src="https://cdn.ultralion.xyz/storage/img/css3.png" style="max-width:100%;">
   </p>
- <h1 align="center"><B>Back-end</B></h1>
+ <h1><B>Back-end</B></h1>
 <p align="center">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/nodejs.png" style="max-width:100%;">
   </p>
-<h1 align="center"><B>Outils</B></h1>
+<h1><B>Outils</B></h1>
 <p align="center">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/vscode.png" style="max-width:100%;">
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/sublimetext.png" style="max-width:100%;">
@@ -22,7 +22,7 @@
 <img height="30" src="https://cdn.ultralion.xyz/storage/img/github.png" style="max-width:100%;">
   </p>
   
- <h1 align="center"><B>🔗 Réseaux sociaux</B></h1>
+ <h1><B>🔗 Réseaux sociaux</B></h1>
 <p align="center">
 <a href="https://ultralion.xyz" title="Website">
   <img align="center" alt="Website" width="40px" src="https://cdn.ultralion.xyz/storage/img/website.png" /></a>
