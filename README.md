@@ -13,7 +13,7 @@
 </table>
 
 
-<h1><B>Technologie et Outils</B>:</h1>
+<h3><B>Technologie et Outils</B>:</3>
 <p>
     - Programation :
     <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/js.png"></img></a>
