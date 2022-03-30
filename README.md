@@ -1,4 +1,4 @@
-<h3>Bonjour, bienvenue sur mon Github! <img width="24px" src="https://cdn.ultralion.xyz/storage/img/hi.gif" /></h3>
+<h3>Bonjour 👋 Je suis UltraLion et bienvenue sur mon github</h3>
 
 <h1><B>Technologie et Outils</B>:</h1>
 <p>
@@ -22,7 +22,7 @@
     - Backend :
     <a href="https://nodejs.org/en/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/nodejs.png"></img></a>
       </p>
-      
+
  <h1><B>🔗 Réseaux sociaux</B></h1>
 <p>
 <a href="https://ultralion.xyz" title="Website">
