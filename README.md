@@ -1,10 +1,10 @@
 <h1>Bonjour 👋 Je suis UltraLion et bienvenue sur mon github</h1>
 
 **À propos de moi**
-- 💼 Créateur du forum [Zone-Tuto](https://zone-tuto.fr/)
-- 💼 Créateur du site [Générateur de mot de passe](https://generateur-de-mot-de-passe.eu)
-- 🤖 Créateur du bot discord [MisterPrince](https://misterprince.net)
-- 🤖 Créateur du bot discord [Accordéon 24h/7](https://accordeon-bot.xyz)
+- 💼 Créateur du forum [Zone-Tuto](https://zone-tuto.fr/) 👥
+- 💼 Créateur du site [Générateur de mot de passe](https://generateur-de-mot-de-passe.eu) 🔐
+- 🤖 Créateur du bot discord [MisterPrince](https://misterprince.net) 🎶
+- 🤖 Créateur du bot discord [Accordéon 24h/7](https://accordeon-bot.xyz) :accordion:
 
 # Mes statistiques github
 <table>
