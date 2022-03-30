@@ -1,4 +1,17 @@
-<h3>Bonjour 👋 Je suis UltraLion et bienvenue sur mon github</h3>
+<h1>Bonjour 👋 Je suis UltraLion et bienvenue sur mon github</h1>
+
+# Mes statistiques github
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true"/>
+    </td>
+    <td>
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark">
+    </td>
+  </tr>
+</table>
+
 
 <h1><B>Technologie et Outils</B>:</h1>
 <p>
@@ -40,15 +53,3 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/281113457833672706">
    </a>
 </div>
-
-# Mes statistiques github
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true"/>
-    </td>
-    <td>
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark">
-    </td>
-  </tr>
-</table>
