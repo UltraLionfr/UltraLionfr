@@ -42,7 +42,7 @@
     <a href="https://nodejs.org/en/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/nodejs.png"></img></a>
       </p>
 
-# 🔗 Réseaux sociaux<
+# 🔗 Réseaux sociaux
 <p>
 <a href="https://ultralion.xyz" title="Website"><img alt="Website" width="40px" src="https://cdn.ultralion.xyz/storage/img/website.png" /></a>
 <a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail"><img alt="Mail" width="40px" src="https://cdn.ultralion.xyz/storage/img/mail.png" /></a>
