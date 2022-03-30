@@ -33,6 +33,7 @@
 </p>
 </div>
 <br><br>
+<div align="center">
   <h1>Discord</h1>
    <a href="https://discord.com/users/281113457833672706" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/281113457833672706">
