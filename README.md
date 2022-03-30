@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-## 👨‍💻 Technologie et Outils utilisé
+## 👨‍💻 Technologies et Outils utilisé
 <br>
 <p>
     - Programation :
