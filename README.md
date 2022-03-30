@@ -22,28 +22,28 @@
 ## 👨‍💻 Technologies et Outils utilisé
 <br>
 <p>
-    - Programation :
+    <li>Programation : 
     <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/js.png"></img></a>
     <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/c.png"></img></a>
     <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/html5.png"></img></a>
     <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/css3.png"></img></a>
     <a href="https://code.visualstudio.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/vscode.png"></img></a>
     <a href="https://www.sublimetext.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/sublimetext.png"></img></a>
-  </p>
+  </p></li>
 <br>
   <p>
-    - Outils :
+    <li>Outils : 
     <a href="https://mremoteng.org/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></img></a>
     <a href="https://winscp.net/eng/index.php" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></img></a>
     <a href="https://github.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/github.png"></img></a>
-      </p>
+      </p></li>
 <br>
   <p>
-    - Backend :
+    <li>Backend : 
     <a href="https://nodejs.org/en/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/nodejs.png"></img></a>
-      </p>
+      </p></li>
 
-# 🔗 Réseaux sociaux
+## 🔗 Réseaux sociaux
 </div>
    <a href="https://discord.com/users/281113457833672706" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/281113457833672706">
