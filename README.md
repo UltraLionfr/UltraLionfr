@@ -18,8 +18,7 @@
   </tr>
 </table>
 
-<br>
-<h3>Technologie et Outils:</3>
+## Technologie et Outils utilisé
 <br>
 <p>
     - Programation :
