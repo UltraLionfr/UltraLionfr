@@ -56,5 +56,5 @@
 
 #### Top Repositories
 
-<a href="https://github.com/UltraLionfr/Script-Installation-NodeJS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltraLionfr&repo=github-readme-stats&theme=dark"/></a>
-<a href="https://github.com/UltraLionfr/Linkvertise-Bypass"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltraLionfr&repo=UltraLionfr.github.io&theme=dark"/></a>
+<a href="https://github.com/UltraLionfr/Script-Installation-NodeJS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltraLionfr&repo=Script-Installation-NodeJS&theme=dark"/></a>
+<a href="https://github.com/UltraLionfr/Linkvertise-Bypass"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltraLionfr&repo=Linkvertise-Bypass&theme=dark"/></a>
