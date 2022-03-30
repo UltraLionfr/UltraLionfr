@@ -48,7 +48,7 @@
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true" />
     </td>
     <td>
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true/top-langs/">
+      <img align="center" style="padding=0;" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark">
     </td>
   </tr>
 </table>
