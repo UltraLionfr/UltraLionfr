@@ -3,12 +3,12 @@
 <h1><B>Technologie et Outils</B>:</h1>
 <p>
     - Programation :
-    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/js.png" style="max-width:100%;"></img>
-    <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/c.png" style="max-width:100%;"></img>
-    <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/html5.png" style="max-width:100%;"></img>
-    <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/css3.png" style="max-width:100%;"></img>
-    <a href="https://code.visualstudio.com" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/vscode.png" style="max-width:100%;"></img>
-    <a href="https://www.sublimetext.com" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/sublimetext.png" style="max-width:100%;"></img>
+    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/js.png"></img>
+    <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/c.png"></img>
+    <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/html5.png"></img>
+    <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/css3.png"></img>
+    <a href="https://code.visualstudio.com" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/vscode.png"></img>
+    <a href="https://www.sublimetext.com" target="_blank"><img align="center" src="https://cdn.ultralion.xyz/storage/img/sublimetext.png"></img>
   </p>
 <br>
   <p>
