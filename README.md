@@ -47,6 +47,9 @@
 <a href="https://ultralion.xyz" title="Website"><img alt="Website" width="40px" src="https://cdn.ultralion.xyz/storage/img/website.png" /></a>
 <a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail"><img alt="Mail" width="40px" src="https://cdn.ultralion.xyz/storage/img/mail.png" /></a>
 <a href="https://www.twitter.com/UltraLion__" title="Twitter"><img alt="Twitter" width="40px" src="https://cdn.ultralion.xyz/storage/img/twitter.png" /></a>
-<a href="https://discord.com/users/281113457833672706" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/281113457833672706"></a>
 </p>
+</div>
+   <a href="https://discord.com/users/281113457833672706" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/281113457833672706">
+   </a>
 </div>
