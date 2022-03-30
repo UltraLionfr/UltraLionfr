@@ -1,5 +1,11 @@
 <h1>Bonjour 👋 Je suis UltraLion et bienvenue sur mon github</h1>
 
+**À propos de moi**
+- 💼 Fondateur du forum [Zone-Tuto](https://zone-tuto.fr/)
+- 💼 Fondateur du bot discord [MisterPrince](https://misterprince.net)
+- 💼 Fondateur du bot discord [Accordéon 24h/7](https://accordeon-bot.xyz)
+- 💼 Fondateur du site [Générateur de mot de passe](https://generateur-de-mot-de-passe.eu)
+
 # Mes statistiques github
 <table>
   <tr>
