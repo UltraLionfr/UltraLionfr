@@ -1,4 +1,4 @@
-<h1>Bonjour 👋 Je suis UltraLion et bienvenue sur mon github</h1>
+<h1>Bonjour 👋 Je suis UltraLion et bienvenue sur mon GitHub</h1>
 
 **À propos de moi**
 - 💼 Créateur du forum [Zone-Tuto](https://zone-tuto.fr/) 👥
@@ -7,7 +7,7 @@
 - 🤖 Créateur du bot discord [Accordéon 24h/7](https://accordeon-bot.xyz) 🎷
 - 🤖 Créateur du gestionnaire musical pour le serveur discord [Culte du code](https://www.culte-du-code.fr) 🎶
 
-# Mes statistiques github
+# Mes statistiques GitHub
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
