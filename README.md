@@ -13,8 +13,7 @@
 </table>
 
 
-<h3><B>Technologie et Outils</B>:</3>
-
+<h3>Technologie et Outils:</3>
 <br>
 <p>
     - Programation :
