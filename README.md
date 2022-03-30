@@ -30,7 +30,11 @@
   <img align="center" alt="Mail" width="40px" src="https://cdn.ultralion.xyz/storage/img/mail.png" /></a>
 <a href="https://www.twitter.com/UltraLion__" title="Twitter">
   <img align="center" alt="Twitter" width="40px" src="https://cdn.ultralion.xyz/storage/img/twitter.png" /></a>
-  <BR></BR>
-    <a href="https://discord.com" title="Discord">
-  <img align="center" alt="Discord"src="https://discord.c99.nl/widget/theme-3/281113457833672706.png" ></a>
 </p>
+</div>
+<br><br>
+  <h1>Discord</h1>
+   <a href="https://discord.com/users/281113457833672706" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/281113457833672706">
+   </a>>
+</div>
