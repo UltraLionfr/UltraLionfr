@@ -19,10 +19,10 @@
   </tr>
 </table>
 
-## 👨‍💻 Technologies et Outils utilisé
+## 👨‍💻 Technologies et Outils utilisés
 <br>
 <p>
-    <li>Programation : 
+    <li>Programmation : 
     <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/js.png"></img></a>
     <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/c.png"></img></a>
     <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/html5.png"></img></a>
