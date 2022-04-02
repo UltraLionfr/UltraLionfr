@@ -38,8 +38,10 @@
   <p>
     <li>Outils : 
     <a href="https://mremoteng.org/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></img></a>
+    <a href="https://filezilla-project.org" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/FileZilla.png"></img></a>
     <a href="https://winscp.net/eng/index.php" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></img></a>
     <a href="https://github.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/github.png"></img></a>
+    <a href="https://git-scm.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/git.png"></img></a>
       </p></li>
 <br>
   <p>
