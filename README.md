@@ -32,7 +32,7 @@
     <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/html5.png"></img></a>
     <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/css3.png"></img></a>
     <a href="https://code.visualstudio.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/vscode.png"></img></a>
-    <a href="https://www.sublimetext.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/sublimetext.png"></img></a>
+    <a href="https://www.sublimetext.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></img></a>
   </p></li>
 <br>
   <p>
