@@ -55,6 +55,7 @@
   <p>
     <li>Systeme d'Exploitation : 
     <a href="https://ubuntu.com/download" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/ubuntu.png"></img></a>
+    <a href="https://www.debian.org/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/debian-logo.png"></img></a>
     <a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
       </p></li>
       
