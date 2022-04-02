@@ -7,6 +7,8 @@
 - 🤖 Créateur du bot discord [Accordéon 24h/7](https://accordeon-bot.xyz) 🎷
 - 🤖 Créateur du gestionnaire musical pour le serveur discord [Culte du code](https://www.culte-du-code.fr) 🎶
 
+---
+
 # Mes statistiques GitHub
 <table>
   <tr>
@@ -18,6 +20,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## 👨‍💻 Technologies et Outils utilisés
 <br>
@@ -42,6 +46,8 @@
     <li>Backend : 
     <a href="https://nodejs.org/en/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/nodejs.png"></img></a>
       </p></li>
+      
+---
 
 ## 🔗 Réseaux Sociaux
 </div>
