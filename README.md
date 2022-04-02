@@ -46,6 +46,12 @@
     <li>Backend : 
     <a href="https://nodejs.org/en/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/nodejs.png"></img></a>
       </p></li>
+<br>
+  <p>
+    <li>Systeme d'Exploitation : 
+    <a href="https://ubuntu.com/download" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/ubuntu.png"></img></a>
+    <a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
+      </p></li>
       
 ---
 
