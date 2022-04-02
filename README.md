@@ -66,9 +66,9 @@
    </a>
 </div>
 <p>
-<a href="https://ultralion.xyz" title="Website"><img alt="Website" width="40px" src="https://cdn.ultralion.xyz/storage/img/website.png" /></a>
-<a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail"><img alt="Mail" width="40px" src="https://cdn.ultralion.xyz/storage/img/gmail.png" /></a>
-<a href="https://www.twitter.com/UltraLion__" title="Twitter"><img alt="Twitter" width="40px" src="https://cdn.ultralion.xyz/storage/img/twitter.png" /></a>
+<a href="https://ultralion.xyz" title="Site Web" target="_blank"><img alt="Site Web" height="50"  align="center" src="https://cdn.ultralion.xyz/storage/img/website.png"></img></a>
+<a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail" target="_blank"><img alt="Mail" height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/gmail.png"></img></a>
+<a href="https://www.twitter.com/UltraLion__" title="Twitter" target="_blank"><img alt="Twitter" height="40"  align="center" src="https://cdn.ultralion.xyz/storage/img/twitter.png"></img></a>
 </p>
 
 #### Top Repositories
