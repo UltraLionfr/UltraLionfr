@@ -31,8 +31,6 @@
     <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/c.png"></img></a>
     <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/html5.png"></img></a>
     <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/css3.png"></img></a>
-    <a href="https://code.visualstudio.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/vscode.png"></img></a>
-    <a href="https://www.sublimetext.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></img></a>
   </p></li>
 <br>
   <p>
@@ -42,6 +40,8 @@
     <a href="https://winscp.net/eng/index.php" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></img></a>
     <a href="https://github.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/github.png"></img></a>
     <a href="https://git-scm.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/git.png"></img></a>
+    <a href="https://code.visualstudio.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/vscode.png"></img></a>
+    <a href="https://www.sublimetext.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></img></a>
       </p></li>
 <br>
   <p>
