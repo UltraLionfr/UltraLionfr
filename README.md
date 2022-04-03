@@ -20,61 +20,40 @@
     </td>
   </tr>
 </table>
+<br>
 
----
-
-## 👨‍💻 Technologies et Outils utilisés
+# 👨‍💻 Programmation
+[![Programmation](https://skillicons.dev/icons?i=js,html,css,php,bots,bash,python,c)](https://ultralion.xyz)
 <br>
-<p>
-    <li>Programmation : 
-    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/js.png"></img></a>
-    <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/c.png"></img></a>
-    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/bash.png"></img></a>
-    <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/html5.png"></img></a>
-    <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/css3.png"></img></a>
-  </p></li>
+# 👨‍💻 Outils
+[![Outils](https://skillicons.dev/icons?i=cloudflare,discord,vscode,raspberrypi,git)](https://ultralion.xyz)
+<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></img></a>
+<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/FileZilla.png"></img></a>
+<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></img></a>
+<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/github.png"></img></a>
+<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></img></a>
+<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/Virtualbox.png"></img></a>
 <br>
-  <p>
-    <li>Outils : 
-    <a href="https://mremoteng.org/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></img></a>
-    <a href="https://filezilla-project.org" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/FileZilla.png"></img></a>
-    <a href="https://winscp.net/eng/index.php" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></img></a>
-    <a href="https://github.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/github.png"></img></a>
-    <a href="https://git-scm.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/git.png"></img></a>
-    <a href="https://code.visualstudio.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/vscode.png"></img></a>
-    <a href="https://www.sublimetext.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></img></a>
-    <a href="https://www.virtualbox.org" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/Virtualbox.png"></img></a>
-      </p></li>
+# 👨‍💻 BackEnd
+[![BackEnd](https://skillicons.dev/icons?i=docker,nodejs)](https://ultralion.xyz)
+<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/apache.png"></img></a>
 <br>
-  <p>
-    <li>Backend : 
-    <a href="https://nodejs.org/en/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/nodejs.png"></img></a>
-    <a href="https://www.docker.com" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/docker.webp"></img></a>
-    <a https://httpd.apache.org" target="_blank"><img height="50"  align="center" src="https://cdn.ultralion.xyz/storage/img/apache.png"></img></a>
-      </p></li>
+# 👨‍💻 Systeme d'Exploitation
+[![Os](https://skillicons.dev/icons?i=linux)](https://ultralion.xyz)
+<a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
 <br>
-  <p>
-    <li>Systeme d'Exploitation : 
-    <a href="https://ubuntu.com/download" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/ubuntu.png"></img></a>
-    <a href="https://www.debian.org/" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/debian-logo.png"></img></a>
-    <a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"><img height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
-      </p></li>
-      
----
-
 ## 🔗 Réseaux Sociaux
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/UltraLion__)
+[![site_web](https://skillicons.dev/icons?i=wordpress)](https://ultralion.xyz)
+<a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail" target="_blank"><img alt="Mail" height="45" src="https://cdn.ultralion.xyz/storage/img/gmail.png"></img></a>
 </div>
    <a href="https://discord.com/users/281113457833672706" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/281113457833672706">
    </a>
 </div>
-<p>
-<a href="https://ultralion.xyz" title="Site Web" target="_blank"><img alt="Site Web" height="50"  align="center" src="https://cdn.ultralion.xyz/storage/img/website.png"></img></a>
-<a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail" target="_blank"><img alt="Mail" height="30"  align="center" src="https://cdn.ultralion.xyz/storage/img/gmail.png"></img></a>
-<a href="https://www.twitter.com/UltraLion__" title="Twitter" target="_blank"><img alt="Twitter" height="40"  align="center" src="https://cdn.ultralion.xyz/storage/img/twitter.png"></img></a>
-</p>
+<br>
 
-#### Top Repositories
+### Top Repositories
 
 <a href="https://github.com/UltraLionfr/Script-Installation-NodeJS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltraLionfr&repo=Script-Installation-NodeJS&theme=dark"/></a>
 <a href="https://github.com/UltraLionfr/Linkvertise-Bypass"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltraLionfr&repo=Linkvertise-Bypass&theme=dark"/></a>
