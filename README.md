@@ -10,16 +10,10 @@
 ---
 
 # Mes statistiques GitHub
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true"/>
-    </td>
-    <td>
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark">
-    </td>
-  </tr>
-</table>
+<a style="text-decoration: none;" href="https://ultralion.xyz">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true"/>
+<a style="text-decoration: none;" href="https://ultralion.xyz">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark"/>
 <br>
 
 # 👨‍💻 Programmation
