@@ -25,7 +25,7 @@
 # 👨‍💻 Programmation
 [![Programmation](https://skillicons.dev/icons?i=js,html,css,php,bots,bash,python,c)](https://ultralion.xyz)
 <br>
-# 👨‍💻 Outils
+# 🕹️ Outils
 [![Outils](https://skillicons.dev/icons?i=cloudflare,discord,vscode,raspberrypi,git)](https://ultralion.xyz)
 <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></img></a>
 <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/FileZilla.png"></img></a>
@@ -34,11 +34,11 @@
 <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></img></a>
 <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/Virtualbox.png"></img></a>
 <br>
-# 👨‍💻 BackEnd
+# 🛠️ BackEnd
 [![BackEnd](https://skillicons.dev/icons?i=docker,nodejs)](https://ultralion.xyz)
 <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/apache.png"></img></a>
 <br>
-# 👨‍💻 Systeme d'Exploitation
+# 💾 Systeme d'Exploitation
 [![Os](https://skillicons.dev/icons?i=linux)](https://ultralion.xyz)
 <a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
 <br>
