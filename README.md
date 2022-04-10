@@ -4,7 +4,7 @@
 - 💼 Créateur du forum [Zone-Tuto](https://zone-tuto.fr/) 👥
 - 💼 Créateur du site [Générateur de mot de passe](https://generateur-de-mot-de-passe.eu) 🔐
 - 🤖 Créateur du bot discord [MisterPrince](https://misterprince.net) 🎶
-- 🤖 Créateur du bot discord [Accordéon 24h/7](https://accordeon-bot.xyz) 🎷
+- 🤖 Créateur du bot discord [Radio Box](https://radio-box.fr) 📻
 - 🤖 Créateur du gestionnaire musical pour le serveur discord [Culte du code](https://www.culte-du-code.fr) 🎶
 
 ---
