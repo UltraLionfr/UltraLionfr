@@ -57,7 +57,7 @@
 <br>
 
 ## ❤️ Me soutenir
-<a href="https://www.buymeacoffee.com/ultralion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ultralion) 
 
 ### Top Repositories
 
