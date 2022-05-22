@@ -57,7 +57,7 @@
 <br>
 
 ## ❤️ Me soutenir
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ultralion) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://www.buymeacoffee.com/ultralion) 
 
 ### Top Repositories
 
