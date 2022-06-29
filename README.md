@@ -9,8 +9,6 @@
 
 ---
 
-![compact](https://dcbadge.vercel.app/api/shield/281113457833672706?bot=true&compact=true)
-
 # Mes statistiques GitHub
 
 ![Mes statistiques](https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true) [![Languages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark)]
@@ -48,6 +46,7 @@
 <a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
 <br>
 ## 🔗 Réseaux Sociaux
+![](https://dcbadge.vercel.app/api/shield/281113457833672706?style=flat&compact=true)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/UltraLion__)
 [![site_web](https://skillicons.dev/icons?i=wordpress)](https://ultralion.xyz)
 <a href="mailto:ultralionfr@gmail.com?subject=[GitHub]%20Contact%20for%20..." title="Mail" target="_blank"><img alt="Mail" height="45" src="https://cdn.ultralion.xyz/storage/img/gmail.png"></img></a>
