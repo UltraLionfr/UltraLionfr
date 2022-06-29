@@ -9,6 +9,8 @@
 
 ---
 
+![compact](https://dcbadge.vercel.app/api/shield/281113457833672706?bot=true&compact=true)
+
 # Mes statistiques GitHub
 
 ![Mes statistiques](https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true) [![Languages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark)]
