@@ -14,22 +14,10 @@
 ![Mes statistiques](https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true) [![Languages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark)]
 
 # 👨‍💻 Programmation
-[![Programmation](https://skillicons.dev/icons?i=js)](https://devdocs.io/javascript/)
-[![Programmation](https://skillicons.dev/icons?i=html)](https://devdocs.io/html/)
-[![Programmation](https://skillicons.dev/icons?i=css)](https://devdocs.io/css/)
-[![Programmation](https://skillicons.dev/icons?i=php)](https://www.php.net)
-[![Programmation](https://skillicons.dev/icons?i=bots)](https://discord.js.org/)
-[![Programmation](https://skillicons.dev/icons?i=bash)](https://devdocs.io/bash/)
-[![Programmation](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![Programmation](https://skillicons.dev/icons?i=c)](https://devdocs.io/c/)
+[![Programmation](https://skillicons.dev/icons?i=js,html,css,php,bots,bash,python,c&perline=10)](https://ultralion.xyz)
 <br>
 # 🕹️ Outils
-[![Outils](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
-[![Outils](https://skillicons.dev/icons?i=discord)](https://discord.com)
-[![Outils](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Outils](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)
-[![Outils](https://skillicons.dev/icons?i=github)](https://github.com)
-[![Outils](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Outils](https://skillicons.dev/icons?i=cloudflare,discord,vscode,raspberrypi,github,git&perline=10)](https://ultralion.xyz)
 <a href="https://mremoteng.org" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></img></a>
 <a href="https://filezilla-project.org" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/FileZilla.png"></img></a>
 <a href="https://winscp.net" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></img></a>
@@ -37,8 +25,7 @@
 <a href="https://www.virtualbox.org" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/Virtualbox.png"></img></a>
 <br>
 # 🛠️ BackEnd
-[![BackEnd](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![BackEnd](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![BackEnd](https://skillicons.dev/icons?i=docker,nodejs&perline=10)](https://ultralion.xyz)
 <a href="https://httpd.apache.org" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/apache.png"></img></a>
 <br>
 # 💾 Systeme d'Exploitation
