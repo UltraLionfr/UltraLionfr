@@ -30,7 +30,7 @@
 <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/apache.png"></img></a>
 <br>
 # 💾 Systeme d'Exploitation
-[![Os](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![Os](https://skillicons.dev/icons?i=linux)](https://ultralion.xyz)
 <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
 <br>
 ## 🔗 Réseaux Sociaux
