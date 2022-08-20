@@ -11,7 +11,8 @@
 
 # Mes statistiques GitHub
 
-![Mes statistiques](https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true) [![Languages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark)]
+![Mes statistiques](https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true) 
+![Languages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark)
 
 # 👨‍💻 Programmation
 [![Programmation](https://skillicons.dev/icons?i=js,html,css,php,bots,bash,python,c&perline=10)](https://ultralion.xyz)
