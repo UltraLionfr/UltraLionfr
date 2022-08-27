@@ -6,8 +6,7 @@
 
 <b align="center">Quelques information me concernant :</b>
 <p>Je suis diplômé d'un Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC) 🎓. 
-Je suis toujours prêt à apprendre et à travailler sur des nouveaux domaines ✨.
-J'aime également explorer les nouvelles technologies et les comprendre 👨🏻‍💻. </p>
+J'aime explorer les nouvelles technologies et les comprendre 👨🏻‍💻. </p>
 
 
 J'ai rejoins GitHub il y a **3** ans.
