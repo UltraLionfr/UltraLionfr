@@ -7,7 +7,10 @@
 <b align="center">Quelques information me concernant 💡</b>
 <p>Je suis diplômé d'un Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC) 🎓.
 <br>
-J'aime explorer les nouvelles technologies et les comprendre 👨🏻‍💻. </p>
+J'aime explorer les nouvelles technologies et les comprendre 👨🏻‍💻.
+<br>
+Je suis également fan de manga et d'anime en tout genre⛩️.
+</p>
 
 
 J'ai rejoins GitHub il y a **3** ans.
