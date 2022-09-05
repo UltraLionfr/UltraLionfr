@@ -36,7 +36,7 @@ Vous voulez me soutenir et vous ne savez pas comment faire ?
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark" />
 </details>
 <details>
-<summary><b> 🚀 Langues et outils utilisé </b></summary>
+<summary><b> 🚀 Langues et Outils Utilisé </b></summary>
 <p align="center">
 <b align="center">👨‍💻 Programmation</b>
 <br>
