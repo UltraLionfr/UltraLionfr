@@ -16,7 +16,7 @@ Je suis également fan de manga et d'anime en tout genre⛩️.
 J'ai rejoins GitHub il y a **3** ans.
 
 ---
-**Mes Projets**
+**Mes Projets 💖**
 - 💼 Créateur du site [AltBin](https://altbin.dev) 📝
 - 💼 Créateur du forum [Zone-Tuto](https://zone-tuto.fr/) 👥
 - 💼 Créateur du site [Générateur de mot de passe](https://generateur-de-mot-de-passe.eu) 🔐
