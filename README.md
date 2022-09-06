@@ -42,37 +42,48 @@ Vous voulez me soutenir et vous ne savez pas comment faire ?
 <b align="center">👨‍💻 Programmation</b>
 <br>
 <br>
-  <a href="https://ultralion.xyz">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,bots,bash,python,c&perline=10" />
-  </a>
+  <a href="https://devdocs.io/javascript/"><img src="https://skillicons.dev/icons?i=js&perline=10" /></a>
+  <a href="https://devdocs.io/html/"><img src="https://skillicons.dev/icons?i=html&perline=10" /></a>
+  <a href="https://devdocs.io/css/"><img src="https://skillicons.dev/icons?i=css&perline=10" /></a>
+  <a href="https://devdocs.io/php/"><img src="https://skillicons.dev/icons?i=php&perline=10" /></a>
+  <a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=bots&perline=10" /></a>
+  <a href="https://devdocs.io/bash/"><img src="https://skillicons.dev/icons?i=bash&perline=10" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&perline=10" /></a>
+  <a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c&perline=10" /></a>
 </p>
 
 <p align="center">
 <b align="center">🕹️ Outils</b>
 <br>
 <br>
-<a href="https://ultralion.xyz"><img src="https://skillicons.dev/icons?i=cloudflare,discord,vscode,raspberrypi,github,git&perline=10" /></a>
-<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></img></a>
-<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/FileZilla.png"></img></a>
-<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></img></a>
-<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></img></a>
-<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/Virtualbox.png"></img></a>
+<a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare&perline=10" /></a>
+<a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord&perline=10" /></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=vscode&perline=10" /></a>
+<a href="https://www.raspberrypi.org"><img src="https://skillicons.dev/icons?i=raspberrypi&perline=10" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&perline=10" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&perline=10" /></a>
+<a href="https://mremoteng.org" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></img></a>
+<a href="https://filezilla-project.org" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/FileZilla.png"></img></a>
+<a href="https://winscp.net/eng/index.php" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></img></a>
+<a href="https://www.sublimetext.com" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></img></a>
+<a href="https://www.virtualbox.org" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/Virtualbox.png"></img></a>
 </p>
 
 <p align="center">
 <b align="center">🛠️ BackEnd</b>
 <br>
 <br>
-<a href="https://ultralion.xyz"><img src="https://skillicons.dev/icons?i=docker,nodejs&perline=10" /></a>
-<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/apache.png"></img></a>
+<a href="https://devdocs.io/docker/"><img src="https://skillicons.dev/icons?i=docker&perline=10" /></a>
+<a href="https://devdocs.io/node/"><img src="https://skillicons.dev/icons?i=nodejs&perline=10" /></a>
+<a href="https://devdocs.io/apache_http_server/" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/apache.png"></img></a>
 </p>
 
 <p align="center">
 <b align="center">💾 Systeme d'Exploitation</b>
 <br>
 <br>
-<a href="https://ultralion.xyz"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
 </p>
 </details>
 <details>
