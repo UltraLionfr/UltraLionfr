@@ -23,12 +23,14 @@ J'ai rejoint GitHub il y a **3** ans.
 - 🤖 Créateur du bot discord [MisterPrince](https://misterprince.net) 🎶 (Actuellement off à cause de youtube.)
 - 🤖 Créateur du bot discord [Radio Box](https://radio-box.fr) 📻
 - 🤖 Créateur du Gestionnaire Musical pour le serveur discord [Culte du code](https://www.culte-du-code.fr) 🎶
+- 📡 Tous mes projets sont hébergés chez [NiHost](https://www.ni-host.com/r/ultralion)
 
 Vous voulez me soutenir et vous ne savez pas comment faire ?
 <br>
 <br>
 <a href="https://www.buymeacoffee.com/ultralion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
+<br>
+<br>
 ---
 <details>
  <summary><b> ⚡ Mes statistiques GitHub </b></summary>
