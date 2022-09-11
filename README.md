@@ -13,7 +13,7 @@ Je suis également fan de manga et d'anime en tout genre⛩️.
 </p>
 
 
-J'ai rejoins GitHub il y a **3** ans.
+J'ai rejoint GitHub il y a **3** ans.
 
 ---
 **Mes Projets 💖**
