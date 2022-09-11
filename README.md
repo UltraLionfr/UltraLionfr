@@ -21,7 +21,7 @@ J'ai rejoint GitHub il y a **3** ans.
 - 💼 Créateur du forum [Zone-Tuto](https://zone-tuto.fr/) 👥
 - 💼 Créateur du site [Générateur de mot de passe](https://generateur-de-mot-de-passe.eu) 🔐
 - 🤖 Créateur du bot discord [MisterPrince](https://misterprince.net) 🎶 (Actuellement off à cause de youtube.)
-- 🤖 Créateur du bot discord [Radio Box](https://radio-box.fr) 📻
+- 🤖 Créateur du bot discord [Radio Box](https://radio-box.dev) 📻
 - 🤖 Créateur du Gestionnaire Musical pour le serveur discord [Culte du code](https://www.culte-du-code.fr) 🎶
 - 📡 Tous mes projets sont hébergés chez [NiHost](https://www.ni-host.com/r/ultralion)
 
