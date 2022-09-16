@@ -4,6 +4,8 @@
 <br>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=UltraLionfr" alt="visitor badge"/> </p>
 
+<img align="right" src="https://i.imgur.com/lgXIfx4.gif" width='200'/>
+
 <b align="center">Quelques information me concernant 💡</b>
 <p>Je suis diplômé d'un Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC) 🎓.
 <br>
@@ -151,5 +153,3 @@ Vous voulez me soutenir et vous ne savez pas comment faire ?
  <br/>
 <a href="https://github.com/Radio-Box-Discord" target="_blank"><img height="50" src="https://avatars.githubusercontent.com/u/113302503?s=200&v=4"></img></a>
 </details>
-
----
