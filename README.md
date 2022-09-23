@@ -1,6 +1,6 @@
 # Bonjour 👋 Je suis [UltraLion](https://github.com/UltraLionfr)
 
-<b align="center">Content de vous voir ici !</b>
+<b align="center">Content de vous voir ici ! ✨</b>
 <br>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=UltraLionfr" alt="visitor badge"/> </p>
 
@@ -9,9 +9,11 @@
 <b align="center">Quelques information me concernant 💡</b>
 <p>Je suis diplômé d'un Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC) 🎓.
 <br>
-J'aime explorer les nouvelles technologies et les comprendre 👨🏻‍💻.
+👨‍💻 J'aime explorer les nouvelles technologies et les comprendre.
 <br>
-Je suis également fan de manga et d'anime en tout genre⛩️.
+Je suis également fan de manga et d'anime en tout genre ⛩️.
+<br>
+🎶 J'aime également écouter beaucoup de musique, peut-être trop par moment
 </p>
 
 
