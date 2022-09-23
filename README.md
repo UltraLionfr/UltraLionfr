@@ -41,7 +41,7 @@ Vous voulez me soutenir et vous ne savez pas comment faire ?
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark" />
 </details>
 <details>
-<summary><b> 🚀 Langues et Outils Utilisé </b></summary>
+<summary><b> 🚀 Langage de Programmation et Outils Utilisé </b></summary>
 <p align="center">
 <b align="center">👨‍💻 Programmation</b>
 <br>
@@ -88,6 +88,14 @@ Vous voulez me soutenir et vous ne savez pas comment faire ?
 <br>
 <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
 <a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"><img height="50" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></img></a>
+</p>
+
+<p align="center">
+<b align="center">🌐 Navigateur Web</b>
+<br>
+<br>
+<a href="https://www.mozilla.org/" target="_blank"><img height="50" src=https://i.imgur.com/iBHzzw8.png"></img></a>
+<a href="https://www.opera.com/gx" target="_blank"><img height="50" src=https://i.imgur.com/CqG3z5k.png"></img></a>
 </p>
 </details>
 <details>
