@@ -4,7 +4,7 @@
 <br>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=UltraLionfr" alt="visitor badge"/> </p>
 
-<img align="right" src="https://i.imgur.com/lgXIfx4.gif" width='200'/>
+<img align="right" src="https://i.imgur.com/PGh5AtC.gif" width='450'/>
 
 <b align="center">Quelques information me concernant 💡</b>
 <p>Je suis diplômé d'un Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC) 🎓.
