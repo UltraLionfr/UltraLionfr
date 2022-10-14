@@ -3,9 +3,9 @@
 <b align="center">Content de vous voir ici ! ✨</b>
 <br>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FUltraLionfr"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FUltraLionfr&label=visiteur&countColor=%23191970&style=flat&labelStyle=lower" /></a>
-
-<img align="right" src="https://i.imgur.com/PGh5AtC.gif" width='450'/>
-
+<table>
+<tr>
+<td>
 <b align="center">Quelques information me concernant 💡</b>
 <p>Je suis diplômé d'un Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC) 🎓.
 <br>
@@ -15,9 +15,11 @@ Je suis également fan de manga et d'anime en tout genre ⛩️.
 <br>
 🎶 J'aime également écouter beaucoup de musique, peut-être trop par moment
 </p>
-
-
-J'ai rejoint GitHub il y a **3** ans.
+</td>
+</tr>
+</table>
+<img align="right" src="https://i.imgur.com/PGh5AtC.gif" width='450'/>
+<p>J'ai rejoint GitHub il y a <b>3</b> ans.</p>
 
 ---
 **Mes Projets 💖**
@@ -28,13 +30,6 @@ J'ai rejoint GitHub il y a **3** ans.
 - 🤖 Créateur du bot discord [Radio Box](https://radio-box.dev) 📻
 - 🤖 Créateur du Gestionnaire Musical pour le serveur discord [Culte du code](https://www.culte-du-code.fr) 🎶
 - 📡 Tous mes projets sont hébergés chez [NiHost](https://www.ni-host.com/r/ultralion)
-
-Vous voulez me soutenir et vous ne savez pas comment faire ?
-<br>
-<br>
-<a href="https://www.buymeacoffee.com/UltraLion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<br>
-<br>
 ---
 <details>
  <summary><b> :octocat: Mes statistiques GitHub </b></summary>
@@ -164,3 +159,9 @@ Vous voulez me soutenir et vous ne savez pas comment faire ?
  <br/>
 <a href="https://github.com/Radio-Box-Discord" target="_blank"><img height="50" src="https://avatars.githubusercontent.com/u/113302503?s=200&v=4"></img></a>
 </details>
+Vous voulez me soutenir et vous ne savez pas comment faire ? <b>Cliquez sur l'image</b> :coffee:
+<br>
+<br>
+<a href="https://www.buymeacoffee.com/UltraLion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
+<br>
