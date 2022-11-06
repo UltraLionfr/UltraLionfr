@@ -150,6 +150,14 @@ Je suis également fan de manga et d'anime en tout genre ⛩️.
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UltraLionfr/Script-Installation-NodeJS?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/UltraLionfr/Script-Installation-NodeJS?style=flat-square"/></td> 
       </tr>
+	    <tr>
+	      <td><a href="https://github.com/UltraLionfr/discord-forum-automessage"><b>📁 Discord Bot Forum AutoMessage</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/UltraLionfr/discord-forum-automessage?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/UltraLionfr/discord-forum-automessage?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/UltraLionfr/discord-forum-automessage?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UltraLionfr/discord-forum-automessage?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/UltraLionfr/discord-forum-automessage?style=flat-square"/></td> 
+      </tr>
     </tbody>
   </table>
   <br />
