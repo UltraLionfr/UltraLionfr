@@ -7,13 +7,13 @@
 <tr>
 <td>
 <b align="center">Quelques information me concernant 💡</b>
-<p>Je suis diplômé d'un Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC) 🎓.
+<p>🎓 Je suis diplômé d'un Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC).
 <br>
 👨‍💻 J'aime explorer les nouvelles technologies et les comprendre.
 <br>
-Je suis également fan de manga et d'anime en tout genre ⛩️.
+⛩️ Je suis fan de la culture japonais ainsi que des manga et d'anime en tout genre.
 <br>
-🎶 J'aime également écouter beaucoup de musique, peut-être trop par moment
+🎶 J'aime également écouter beaucoup de musique en tous genre.
 </p>
 </td>
 </tr>
