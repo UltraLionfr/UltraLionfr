@@ -2,7 +2,7 @@
 
 <b align="center">Content de vous voir ici ! ✨</b>
 <br>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FUltraLionfr"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FUltraLionfr&label=visiteur&countColor=%23191970&style=flat&labelStyle=lower" /></a>
+![](https://visitor-badge.glitch.me/badge?page_id=ultralionfr.ultralionfr)
 <table>
 <tr>
 <td>
