@@ -24,8 +24,6 @@
 ---
 **Mes Projets 💖**
 - 💼 Créateur du site [AltBin](https://altbin.dev) 📝
-- 💼 Créateur du forum [Zone-Tuto](https://zone-tuto.fr/) 👥 (Off)
-- 💼 Créateur du site [Générateur de mot de passe](https://generateur-de-mot-de-passe.eu) 🔐 (Off)
 - 🤖 Créateur du bot discord [Radio Box](https://radio-box.dev) 📻
 - 🤖 Créateur du bot discord Forum pour [Culte du code](https://www.culte-du-code.fr) 👥
 - 📡 Tous mes projets sont hébergés chez [IHCB GROUP](https://cp.ihcb-group.com/aff.php?aff=4) & [NiHost](https://www.ni-host.com/r/ultralion)
