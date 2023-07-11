@@ -107,6 +107,8 @@
 </div>
 </details>
 
+![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/UltraLionfr/UltraLionfr/blob/output/github-contribution-grid-snake.gif))
+
 <details>
   <summary><b>👨‍🚀 Mes Projets Open Source</b></summary>
 
