@@ -23,6 +23,7 @@
 
 ---
 **Mes Projets 💖**
+- 💼 Création de bot discord personnalisé [Discord Bot Service](https://discord-bot-service.dev) 🤖
 - 💼 Créateur du site [AltBin](https://altbin.dev) 📝
 - 🤖 Créateur du bot discord [Radio Box](https://radio-box.dev) 📻
 - 🤖 Créateur du bot discord Forum pour [Culte du code](https://www.culte-du-code.fr) 👥
