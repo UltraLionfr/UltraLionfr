@@ -157,7 +157,7 @@
       </tr>
     </tbody>
   </table>
-  <br />
+  <br/>
 </details>
 <details>
  <summary><b>📋 Organisations</b></summary>
@@ -165,9 +165,6 @@
 <a href="https://github.com/Radio-Box-Discord" target="_blank"><img height="50" src="https://avatars.githubusercontent.com/u/113302503?s=200&v=4"></img></a>
 </details>
 <img height="180em" src="https://github.com/UltraLionfr/UltraLionfr/blob/output/github-contribution-grid-snake.svg"/>
-Vous voulez me soutenir et vous ne savez pas comment faire ? <b>Cliquez sur l'image</b> :coffee:
-<br>
-<br>
+
+---
 <a href="https://www.buymeacoffee.com/UltraLion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<br>
-<br>
