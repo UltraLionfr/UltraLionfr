@@ -22,7 +22,7 @@
     <li>🤖 Créateur du bot Discord <a href="https://radio-box.dev">Radio Box</a> 📻</li>
     <li>🚀 Créateur du bot Discord <a href="https://space-bot.org/">SpaceBot</a></li>
     <li>👥 Créateur du bot Discord Forum pour <a href="https://www.culte-du-code.fr">Culte du code</a></li>
-    <li>📡 Tous mes projets sont hébergés chez <a href="https://cp.ihcb-group.com/aff.php?aff=4">IHCB GROUP</a> & <a href="https://www.ni-host.com/r/ultralion">NiHost</a></li>
+    <li>📡 Tous mes projets sont hébergés chez <a href="https://quantumcraft-studios.com/">QuantumCraft Studios</a></a></li>
 </ul>
 
 <hr>
