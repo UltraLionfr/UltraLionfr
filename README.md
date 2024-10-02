@@ -37,7 +37,7 @@
    <summary><strong>🚀 Langages et Outils Utilisés</strong></summary>
    <h3 align="center">👨‍💻 Programmation</h3>
    <div align="center">
-      <a href="https://devdocs.io/javascript/"><img src="https://icons-api.ovh/icons/?i=JavaScript&width=60&height=60" /></a>
+      <a href="https://devdocs.io/javascript/"><img src="https://icons-api.ovh/icons/?i=javascript&width=60&height=60" /></a>
       <a href="https://devdocs.io/html/"><img src="https://skillicons.dev/icons?i=html&perline=10" /></a>
       <a href="https://devdocs.io/css/"><img src="https://skillicons.dev/icons?i=css&perline=10" /></a>
       <a href="https://devdocs.io/php/"><img src="https://skillicons.dev/icons?i=php&perline=10" /></a>
