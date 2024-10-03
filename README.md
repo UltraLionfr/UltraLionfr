@@ -37,20 +37,20 @@
    <summary><strong>🚀 Langages et Outils Utilisés</strong></summary>
    <h3 align="center">👨‍💻 Programmation</h3>
    <div align="center">
-      <a href="https://devdocs.io/javascript/"><img src="https://icons-api.ovh/icons/?i=javascript&width=60&height=60" /></a>
-      <a href="https://devdocs.io/html/"><img src="https://skillicons.dev/icons?i=html&perline=10" /></a>
-      <a href="https://devdocs.io/css/"><img src="https://skillicons.dev/icons?i=css&perline=10" /></a>
-      <a href="https://devdocs.io/php/"><img src="https://skillicons.dev/icons?i=php&perline=10" /></a>
-      <a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=bots&perline=10" /></a>
-      <a href="https://devdocs.io/bash/"><img src="https://skillicons.dev/icons?i=bash&perline=10" /></a>
-      <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&perline=10" /></a>
-      <a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c&perline=10" /></a>
+      <a href="https://devdocs.io/javascript/"><img src="https://icons-api.ovh/api/icons?i=javascript" /></a>
+      <a href="https://devdocs.io/html/"><img src="https://icons-api.ovh/api/icons?i=html5" /></a>
+      <a href="https://devdocs.io/css/"><img src="https://icons-api.ovh/api/icons?i=css3" /></a>
+      <a href="https://devdocs.io/php/"><img src="https://icons-api.ovh/api/icons?i=php" /></a>
+      <a href="https://discord.com/developers/docs/intro"><img src="https://icons-api.ovh/api/icons?i=discord" /></a>
+      <a href="https://devdocs.io/bash/"><img src="https://icons-api.ovh/api/icons?i=gnubash" /></a>
+      <a href="https://www.python.org"><img src="https://icons-api.ovh/api/icons?i=python" /></a>
+      <a href="https://devdocs.io/c/"><img src="https://icons-api.ovh/api/icons?i=c" /></a>
    </div>
 
    <h3 align="center">🕹️ Outils</h3>
    <div align="center">
-      <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare&perline=10" /></a>
-      <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord&perline=10" /></a>
+      <a href="https://www.cloudflare.com/"><img src="https://icons-api.ovh/api/icons?i=cloudflare" /></a>
+      <a href="https://discord.com"><img src="https://icons-api.ovh/api/icons?i=discord" /></a>
       <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=vscode&perline=10" /></a>
       <a href="https://www.raspberrypi.org"><img src="https://skillicons.dev/icons?i=raspberrypi&perline=10" /></a>
       <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&perline=10" /></a>
