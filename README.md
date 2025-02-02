@@ -1,148 +1,81 @@
- ! <h1>Bonjour 👋, je suis <a href="https://ultralion.xyz">UltraLion</a></h1>
-<p><strong>Content de vous voir ici ! ✨</strong></p>
+<!-- Bannière -->
+<p align="center">
+  <img src="https://i.imgur.com/PGh5AtC.gif" width="450">
+</p>
 
-<hr>
+<h1 align="center">Bonjour 👋, je suis <a href="https://ultralion.xyz">UltraLion</a></h1>
+<p align="center"><strong>Content de vous voir ici ! ✨</strong></p>
 
-<h2>Quelques informations me concernant 💡</h2>
-<ul>
-    <li>🎓 <strong>Diplôme :</strong> Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC).</li>
-    <li>👨‍💻 <strong>Passions :</strong> Explorer les nouvelles technologies et les comprendre.</li>
-    <li>⛩️ <strong>Intérêts :</strong> Fan de la culture japonaise, des mangas et des animes.</li>
-    <li>🎶 <strong>Hobbies :</strong> Écouter de la musique en tous genres.</li>
-</ul>
-<img align="right" src="https://i.imgur.com/PGh5AtC.gif" width='450' />
-<p>Je suis sur GitHub depuis <strong>5</strong> ans.</p>
+---
 
-<hr>
+## 🔥 **À propos de moi**
+> 🖥️ Passionné par la technologie et l'innovation.  
+> 🎓 Bac pro Systèmes numériques - option RISC.  
+> ⛩️ Fan de la culture japonaise, des mangas & des animes.  
+> 🎶 J’écoute de la musique de tous genres.  
 
-<h2>Mes Projets 💖</h2>
-<ul>
-    <li>💼 Création de bot Discord personnalisé <a href="https://discord-bot-service.dev">Discord Bot Service</a> 🤖</li>
-    <li>💼 Créateur du site <a href="https://altbin.dev">AltBin</a> 📝</li>
-    <li>🤖 Créateur du bot Discord <a href="https://radio-box.dev">Radio Box</a> 📻</li>
-    <li>🚀 Créateur du bot Discord <a href="https://space-bot.org/">SpaceBot</a></li>
-    <li>👥 Créateur du bot Discord Forum pour <a href="https://www.culte-du-code.fr">Culte du code</a></li>
-    <li>📡 Tous mes projets sont hébergés chez <a href="https://quantumcraft-studios.com/">QuantumCraft Studios</a></a></li>
-</ul>
+---
 
-<hr>
+## 🚀 **Mes Projets**
+📌 **Mes créations :**
+- 🤖 [Discord Bot Service](https://discord-bot-service.dev) - Création de bots Discord personnalisés.
+- 📝 [AltBin](https://altbin.dev) - Site web dédié aux binaires alternatifs.
+- 📻 [Radio Box](https://radio-box.dev) - Un bot Discord pour écouter la radio.
+- 🚀 [SpaceBot](https://space-bot.org) - Un assistant Discord polyvalent.
+- 🛠️ [Culte du Code](https://www.culte-du-code.fr) - Forum communautaire.
 
-<details>
-   <summary><strong>:octocat: Mes statistiques GitHub</strong></summary>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=dark&show_icons=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=dark" />
-</details>
+📡 **Hébergés chez** : [QuantumCraft Studios](https://quantumcraft-studios.com/) 🚀
 
-<details>
-   <summary><strong>🚀 Langages et Outils Utilisés</strong></summary>
-   <h3 align="center">👨‍💻 Programmation</h3>
-   <div align="center">
-      <a href="https://devdocs.io/javascript/"><img src="https://icons-api.ovh/api/icons?i=javascript" /></a>
-      <a href="https://devdocs.io/html/"><img src="https://icons-api.ovh/api/icons?i=html5" /></a>
-      <a href="https://devdocs.io/css/"><img src="https://icons-api.ovh/api/icons?i=css3" /></a>
-      <a href="https://devdocs.io/php/"><img src="https://icons-api.ovh/api/icons?i=php" /></a>
-      <a href="https://discord.com/developers/docs/intro"><img src="https://icons-api.ovh/api/icons?i=discord" /></a>
-      <a href="https://devdocs.io/bash/"><img src="https://icons-api.ovh/api/icons?i=gnubash" /></a>
-      <a href="https://www.python.org"><img src="https://icons-api.ovh/api/icons?i=python" /></a>
-      <a href="https://devdocs.io/c/"><img src="https://icons-api.ovh/api/icons?i=c" /></a>
-   </div>
+---
 
-   <h3 align="center">🕹️ Outils</h3>
-   <div align="center">
-      <a href="https://www.cloudflare.com/"><img src="https://icons-api.ovh/api/icons?i=cloudflare" /></a>
-      <a href="https://discord.com"><img src="https://icons-api.ovh/api/icons?i=discord" /></a>
-      <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=vscode&perline=10" /></a>
-      <a href="https://www.raspberrypi.org"><img src="https://skillicons.dev/icons?i=raspberrypi&perline=10" /></a>
-      <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&perline=10" /></a>
-      <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&perline=10" /></a>
-      <a href="https://mremoteng.org"><img height="50" src="https://cdn.ultralion.xyz/storage/img/mRemoteNG.png"></a>
-      <a href="https://filezilla-project.org"><img height="50" src="https://cdn.ultralion.xyz/storage/img/FileZilla.png"></a>
-      <a href="https://winscp.net/eng/index.php"><img height="50" src="https://cdn.ultralion.xyz/storage/img/winscp.png"></a>
-      <a href="https://www.sublimetext.com"><img height="50" src="https://cdn.ultralion.xyz/storage/img/sublime_text.png"></a>
-      <a href="https://www.virtualbox.org"><img height="50" src="https://cdn.ultralion.xyz/storage/img/Virtualbox.png"></a>
-      <a href="https://www.npmjs.com"><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"></a>
-   </div>
+## 📊 **Statistiques GitHub**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UltraLionfr&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraLionfr&layout=compact&theme=radical" />
+</p>
 
-   <h3 align="center">🛠️ BackEnd</h3>
-   <div align="center">
-      <a href="https://devdocs.io/docker/"><img src="https://skillicons.dev/icons?i=docker&perline=10" /></a>
-      <a href="https://devdocs.io/node/"><img src="https://skillicons.dev/icons?i=nodejs&perline=10" /></a>
-      <a href="https://devdocs.io/apache_http_server/"><img height="50" src="https://cdn.ultralion.xyz/storage/img/apache.png"></a>
-   </div>
+---
 
-   <h3 align="center">💾 Systèmes d'Exploitation</h3>
-   <div align="center">
-      <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
-      <a href="https://www.microsoft.com/fr-fr/software-download/windows10"><img height="50" src="https://cdn.ultralion.xyz/storage/img/windows10.png"></a>
-   </div>
+## 🛠️ **Langages & Outils**
+<h3 align="center">👨‍💻 Programmation</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,c,bash,nodejs" />
+</p>
 
-   <h3 align="center">🌐 Navigateurs Web</h3>
-   <div align="center">
-      <a href="https://www.mozilla.org/"><img height="50" src="https://i.imgur.com/iBHzzw8.png"></a>
-      <a href="https://www.opera.com/gx"><img height="50" src="https://i.imgur.com/CqG3z5k.png"></a>
-   </div>
-</details>
+<h3 align="center">🛠️ Outils</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,raspberrypi,discord,docker,linux,windows" />
+</p>
 
-<details>
-   <summary><strong>👨‍🚀 Mes Projets Open Source</strong></summary>
-   <table>
-      <thead align="center">
-         <tr>
-            <td><strong>💻 Projets</strong></td>
-            <td><strong>🌟 Stars</strong></td>
-            <td><strong>🍴 Forks</strong></td>
-            <td><strong>🐛 Issues</strong></td>
-            <td><strong>🔔 Pull Requests</strong></td>
-            <td><strong>👨‍💻 Langage</strong></td>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td><a href="https://github.com/UltraLionfr/WebSite-Template-Maintenance"><strong>🌐 WebSite Template Maintenance</strong></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/UltraLionfr/WebSite-Template-Maintenance?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/UltraLionfr/WebSite-Template-Maintenance?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/UltraLionfr/WebSite-Template-Maintenance?style=flat-square" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UltraLionfr/WebSite-Template-Maintenance?style=flat-square" /></td>
-            <td><img alt="Langage" src="https://img.shields.io/github/languages/top/UltraLionfr/WebSite-Template-Maintenance?style=flat-square" /></td>
-         </tr>
-         <tr>
-            <td><a href="https://github.com/UltraLionfr/discord-bot-v12-template"><strong>📁 Discord Bot V12 Template</strong></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/UltraLionfr/discord-bot-v12-template?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/UltraLionfr/discord-bot-v12-template?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/UltraLionfr/discord-bot-v12-template?style=flat-square" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UltraLionfr/discord-bot-v12-template?style=flat-square" /></td>
-            <td><img alt="Langage" src="https://img.shields.io/github/languages/top/UltraLionfr/discord-bot-v12-template?label=javascript&style=flat-square" /></td>
-         </tr>
-         <tr>
-            <td><a href="https://github.com/UltraLionfr/Script-Installation-NodeJS"><strong>👨🏻‍💻 Script Installation NodeJS</strong></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/UltraLionfr/Script-Installation-NodeJS?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/UltraLionfr/Script-Installation-NodeJS?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/UltraLionfr/Script-Installation-NodeJS?style=flat-square" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UltraLionfr/Script-Installation-NodeJS?style=flat-square" /></td>
-            <td><img alt="Langage" src="https://img.shields.io/github/languages/top/UltraLionfr/Script-Installation-NodeJS?style=flat-square" /></td>
-         </tr>
-         <tr>
-            <td><a href="https://github.com/UltraLionfr/discord-forum-automessage"><strong>📁 Discord Bot Forum AutoMessage</strong></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/UltraLionfr/discord-forum-automessage?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/UltraLionfr/discord-forum-automessage?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/UltraLionfr/discord-forum-automessage?style=flat-square" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UltraLionfr/discord-forum-automessage?style=flat-square" /></td>
-            <td><img alt="Langage" src="https://img.shields.io/github/languages/top/UltraLionfr/discord-forum-automessage?style=flat-square" /></td>
-         </tr>
-      </tbody>
-   </table>
-</details>
+<h3 align="center">📡 Autres Technologies</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apache" />
+</p>
 
-<details>
-   <summary><strong>📋 Organisations</strong></summary>
-   <a href="https://github.com/Radio-Box-Discord"><img height="50" src="https://avatars.githubusercontent.com/u/113302503?s=200&v=4"></a>
-</details>
+---
 
-<hr>
+## 🌍 **Mes Projets Open Source**
+| 💻 Projet | 🌟 Stars | 🍴 Forks | 🐛 Issues | 🔔 Pull Requests | 🛠️ Langage |
+|-----------|---------|---------|----------|-----------------|-------------|
+| [🌐 WebSite Template Maintenance](https://github.com/UltraLionfr/WebSite-Template-Maintenance) | ![Stars](https://img.shields.io/github/stars/UltraLionfr/WebSite-Template-Maintenance?style=flat) | ![Forks](https://img.shields.io/github/forks/UltraLionfr/WebSite-Template-Maintenance?style=flat) | ![Issues](https://img.shields.io/github/issues/UltraLionfr/WebSite-Template-Maintenance?style=flat) | ![PRs](https://img.shields.io/github/issues-pr/UltraLionfr/WebSite-Template-Maintenance?style=flat) | ![Langage](https://img.shields.io/github/languages/top/UltraLionfr/WebSite-Template-Maintenance?style=flat) |
+| [📁 Discord Bot V12 Template](https://github.com/UltraLionfr/discord-bot-v12-template) | ![Stars](https://img.shields.io/github/stars/UltraLionfr/discord-bot-v12-template?style=flat) | ![Forks](https://img.shields.io/github/forks/UltraLionfr/discord-bot-v12-template?style=flat) | ![Issues](https://img.shields.io/github/issues/UltraLionfr/discord-bot-v12-template?style=flat) | ![PRs](https://img.shields.io/github/issues-pr/UltraLionfr/discord-bot-v12-template?style=flat) | ![Langage](https://img.shields.io/github/languages/top/UltraLionfr/discord-bot-v12-template?style=flat) |
+| [👨🏻‍💻 Script Installation NodeJS](https://github.com/UltraLionfr/Script-Installation-NodeJS) | ![Stars](https://img.shields.io/github/stars/UltraLionfr/Script-Installation-NodeJS?style=flat) | ![Forks](https://img.shields.io/github/forks/UltraLionfr/Script-Installation-NodeJS?style=flat) | ![Issues](https://img.shields.io/github/issues/UltraLionfr/Script-Installation-NodeJS?style=flat) | ![PRs](https://img.shields.io/github/issues-pr/UltraLionfr/Script-Installation-NodeJS?style=flat) | ![Langage](https://img.shields.io/github/languages/top/UltraLionfr/Script-Installation-NodeJS?style=flat) |
 
-<div>
-    <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://i.imgur.com/5qdnJ3S.gif"></a>
-    <a href="mailto:ultralionfr@gmail.com" title="Mail" target="_blank"><img alt="Mail" height="45" src="https://skillicons.dev/icons?i=gmail&perline=10"></a>
-    <a href="https://twitter.com/UltraLion__"><img src="https://skillicons.dev/icons?i=twitter"></a>
-    <a href="https://www.buymeacoffee.com/UltraLion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
-</div>
+---
+
+## 📋 **Organisations**
+<p align="center">
+  <a href="https://github.com/Radio-Box-Discord">
+    <img height="50" src="https://avatars.githubusercontent.com/u/113302503?s=200&v=4">
+  </a>
+</p>
+
+---
+
+## ☕ **Me soutenir**
+<p align="center">
+  <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://i.imgur.com/5qdnJ3S.gif"></a>
+  <a href="mailto:ultralionfr@gmail.com" title="Mail" target="_blank"><img alt="Mail" height="45" src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://twitter.com/UltraLion__"><img src="https://skillicons.dev/icons?i=twitter"></a>
+  <a href="https://www.buymeacoffee.com/UltraLion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+</p>
