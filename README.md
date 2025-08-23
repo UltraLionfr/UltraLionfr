@@ -76,5 +76,5 @@
   <a href="https://ultralion.xyz" target="_blank"><img height="50" src="https://i.imgur.com/5qdnJ3S.gif"></a>
   <a href="mailto:ultralionfr@gmail.com" title="Mail" target="_blank"><img alt="Mail" height="45" src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://twitter.com/UltraLion__"><img src="https://skillicons.dev/icons?i=twitter"></a>
-  <a href="https://www.buymeacoffee.com/UltraLion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+  <a href='https://ko-fi.com/Q5Q21BDR6I' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
