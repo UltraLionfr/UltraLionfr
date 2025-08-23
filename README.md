@@ -18,11 +18,10 @@
 
 ## 🚀 **Mes Projets**
 📌 **Mes créations :**
-- 🤖 [Discord Bot Service](https://discord-bot-service.dev) - Création de bots Discord personnalisés.
+- 🌐 [Mon Site Web](https://ultralion.xyz) - Mon site web ou je poste tous mes projets ainsi que mes services
 - 📝 [AltBin](https://altbin.dev) - Site web dédié aux binaires alternatifs.
 - 📻 [Radio Box](https://radio-box.dev) - Un bot Discord pour écouter la radio.
-- 🚀 [SpaceBot](https://space-bot.org) - Un assistant Discord polyvalent.
-- 🛠️ [Culte du Code](https://www.culte-du-code.fr) - Forum communautaire.
+- 🛠️ [Bot discord Culte du code](https://github.com/UltraLionfr/discord-forum-automessage) - Forum communautaire.
 
 📡 **Hébergés chez** : [QuantumCraft Studios](https://quantumcraft-studios.com/) 🚀
 
